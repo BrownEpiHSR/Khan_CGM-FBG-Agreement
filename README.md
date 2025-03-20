@@ -19,7 +19,7 @@ The `code/` directory contains the following programs:
  2. Fingerstick_macro_cohort 2.sas - A macro that will create day level and day-interval level fingersticks dataset for           each person	in cohort 2
  3. Day level analysis_cohort 2.sas - Conduct day level analysis of CGM and fingerstick data
  4. Interval level analysis_cohort 2.sas - Conduct interval level analysis of CGM and fingerstick data
- 5. Phi correlations in R_cohort 2.R - Calculate Phi correlations between CGM and FBG in the day and interval level>
+ 5. Phi correlations in R_cohort 2.R - Calculate Phi correlations between CGM and FBG in the day and interval level
  6. Demographics_cohort 2.sas - Obtain demographic statisitics for the cohort
 
 Programs were run in sequence to produce the study findings.
